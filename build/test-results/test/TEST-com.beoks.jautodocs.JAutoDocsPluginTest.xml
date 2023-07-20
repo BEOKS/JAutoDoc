@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.beoks.jautodocs.JAutoDocsPluginTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-07-20T04:34:47" hostname="DESKTOP-DQQ949S" time="2.355">
+  <properties/>
+  <testcase name="jAutoDocsPluginAddHelloTasks()" classname="com.beoks.jautodocs.JAutoDocsPluginTest" time="2.322"/>
+  <testcase name="checkTaskExecution()" classname="com.beoks.jautodocs.JAutoDocsPluginTest" time="0.033"/>
+  <system-out><![CDATA[hello gradle!!!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

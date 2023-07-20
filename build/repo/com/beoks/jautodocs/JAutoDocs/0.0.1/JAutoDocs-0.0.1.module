@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.beoks.jautodocs",
+    "module": "JAutoDocs",
+    "version": "0.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.1.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "JAutoDocs-0.0.1.jar",
+          "url": "JAutoDocs-0.0.1.jar",
+          "size": 2101,
+          "sha512": "bbd516a01f8330cfb91bc4e42a43d8dd349ebadf1d5132dd08349d505debd88ebdd060a6fa2493d865e62b470b7e79ec04c745fa875f041f97c7013242561f64",
+          "sha256": "02a77ed34d6b90c10fe1a77df8b656577712bc8724aff9ff9c9ef10eac255514",
+          "sha1": "49dd9a011cc22324f1c93aff3e7cfa3ddecbf09e",
+          "md5": "4169a458fdae73976405f41a9c836c16"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "JAutoDocs-0.0.1.jar",
+          "url": "JAutoDocs-0.0.1.jar",
+          "size": 2101,
+          "sha512": "bbd516a01f8330cfb91bc4e42a43d8dd349ebadf1d5132dd08349d505debd88ebdd060a6fa2493d865e62b470b7e79ec04c745fa875f041f97c7013242561f64",
+          "sha256": "02a77ed34d6b90c10fe1a77df8b656577712bc8724aff9ff9c9ef10eac255514",
+          "sha1": "49dd9a011cc22324f1c93aff3e7cfa3ddecbf09e",
+          "md5": "4169a458fdae73976405f41a9c836c16"
+        }
+      ]
+    }
+  ]
+}
